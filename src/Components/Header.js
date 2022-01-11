@@ -9,7 +9,7 @@ function Header() {
 	return (
 		<Container>
 			<a href="">
-				<img src="/images/logo.svg" alt="Logo" />
+				<img src="/images/tesla-logo.svg" alt="Logo" width="100px" />
 			</a>
 			<Menu>
 				<a href="#">Model S</a>
@@ -66,7 +66,7 @@ const Container = styled.div`
 	display: flex;
 	align-items: center;
 	justify-content: space-between;
-	padding: 0 20px;
+	padding: 0 25px;
 	top: 0;
 	left: 0;
 	right: 0;
@@ -98,7 +98,7 @@ const RightMenu = styled.div`
 	a {
 		font-weight: 600;
 		text-transform: uppercase;
-		margin-right: 10px;
+		margin-right: 15px;
 	}
 `;
 
