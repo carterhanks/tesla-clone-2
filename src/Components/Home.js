@@ -13,13 +13,6 @@ function Home() {
 				rightBtnText="Existing Inventory"
 			/>
 			<Section
-				title="Model Y"
-				description="Order Online for Touchless Delivery"
-				backgroundImg="model-y.jpeg"
-				leftBtnText="Custom Order"
-				rightBtnText="Existing Inventory"
-			/>
-			<Section
 				title="Model 3"
 				description="Order Online for Touchless Delivery"
 				backgroundImg="model-3.jpeg"
@@ -30,6 +23,13 @@ function Home() {
 				title="Model X"
 				description="Order Online for Touchless Delivery"
 				backgroundImg="model-x.jpeg"
+				leftBtnText="Custom Order"
+				rightBtnText="Existing Inventory"
+			/>
+			<Section
+				title="Model Y"
+				description="Order Online for Touchless Delivery"
+				backgroundImg="model-y.jpeg"
 				leftBtnText="Custom Order"
 				rightBtnText="Existing Inventory"
 			/>
